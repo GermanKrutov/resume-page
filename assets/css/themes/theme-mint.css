@@ -7625,7 +7625,7 @@ body.navigation-horizontal #page-loader {
 }
 
 .nav-pills li, .nav-pills .nav-item {
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.25rem !important;
   display: inline-block;
 }
 
@@ -8343,6 +8343,8 @@ pre {
   background-color: #f7f7f9;
   border-radius: .25rem;
 }
+
+
 
 /* 6.16 Pagination
 ----------------------------------------------------------*/
