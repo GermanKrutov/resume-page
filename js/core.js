@@ -950,18 +950,18 @@ Author:         Suelo
                     });
                 });
 
-            // },
-            // contactMap: function() {
+            },
+            contactMap: function() {
 
-            //     $('[data-toggle="contact-map"]','#content').on('change', function(e){
-            //         var $self = $(this),
-            //             $sectionContact = $self.parents('.section-contact'),
-            //             $sectionContactContent = $sectionContact.find('.section-contact-content');
+                $('[data-toggle="contact-map"]','#content').on('change', function(e){
+                    var $self = $(this),
+                        $sectionContact = $self.parents('.section-contact'),
+                        $sectionContactContent = $sectionContact.find('.section-contact-content');
 
-            //         $sectionContact.toggleClass('map-visible');
-            //     });
+                    $sectionContact.toggleClass('map-visible');
+                });
 
-            // }
+            }
         }
     };
 
