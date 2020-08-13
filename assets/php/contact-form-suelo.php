@@ -4,8 +4,8 @@
 	$email = trim($_POST['email']);
 	$message = trim($_POST['message']);
 	
-	$emailTo = 'piotr.osmola@gmail.com'; //Put your own email address here
-	$subject = 'Question about Ja.';
+	$emailTo = 'example@exam.ple'; //Put your own email address here
+	$subject = 'Question';
 	$body = "Name: $name \n\nEmail: $email \n\nMessage:\n$message";
 	$headers = 'From: '.$email."\r\n" .
         'Reply-To: '.$email."\r\n";
