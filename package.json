@@ -1,0 +1,22 @@
+{
+  "name": "resume-page",
+  "version": "1.0.0",
+  "description": "personal-resume-page",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "grunt-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinabati/resume-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinabati/resume-page/issues"
+  },
+  "homepage": "https://github.com/rinabati/resume-page#readme",
+  "dependencies": {
+    "grunt": "^1.2.1"
+  }
+}
