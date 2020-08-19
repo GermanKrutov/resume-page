@@ -1006,3 +1006,7 @@ Author:         Suelo
     });
 
 }(jQuery));
+
+console.log('%c Hey, curious person!', 'font-size: 18px; font-weight: bold');
+console.log('%c Do you also enjoy staring at the console?', 'font-size: 15px;');
+console.log('  I hope it is set to dark mode');
