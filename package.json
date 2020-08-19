@@ -16,7 +16,5 @@
     "url": "https://github.com/rinabati/resume-page/issues"
   },
   "homepage": "https://github.com/rinabati/resume-page#readme",
-  "dependencies": {
-    "grunt": "^1.2.1"
-  }
+  "dependencies": {}
 }
