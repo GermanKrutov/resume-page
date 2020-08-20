@@ -28,7 +28,7 @@ assurance.
 * HTML5
 * CSS4
 * Bootstrap 4
-* Javascript
+* JavaScript
 
 ## TODOS
 To-do list:
