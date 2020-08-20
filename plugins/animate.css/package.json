@@ -70,7 +70,7 @@
     "tarball": "https://registry.npmjs.org/animate.css/-/animate.css-3.5.2.tgz"
   },
   "gitHead": "535a9dd499763b2bdc9b53e13019112651d05d30",
-  "homepage": "http://daneden.me/animate",
+  "homepage": "https://daneden.me/animate",
   "jspm": {
     "main": "animate.css!",
     "format": "global",
