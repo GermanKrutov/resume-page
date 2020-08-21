@@ -46,6 +46,7 @@ Table of Contents:
 -- 6.19 Testimonials
 -- 6.20 Typography
 -- 6.21 Window
+-- 6.22 Lists
 7. Animations 
 
 -------------------------------------------------------------------------------- */
@@ -9481,6 +9482,17 @@ body.loaded .window-toggle {
   -o-transform: scale(1, 1);
   transform: scale(1, 1);
   visibility: visible;
+}
+
+/* 6.22 Lists
+----------------------------------------------------------*/
+
+.skill-list{
+  list-style-position: outside;
+}
+
+.list-item{
+  padding-left: 1em;
 }
 
 /* ----------------------------------------------------------------------------- */
